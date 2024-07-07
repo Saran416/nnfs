@@ -1,6 +1,6 @@
 # nnfs
 
-Multilayer Neural Network implemented completed from scratch using numpy
+Multilayer Neural Network implemented completely from scratch using numpy
 
 Activation functions: _sigmoid_
 
