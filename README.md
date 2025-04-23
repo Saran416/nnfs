@@ -30,7 +30,7 @@ Achieved a **test accuracy of 93.59%** on the MNIST dataset.
 
    ```bash
    git clone <repository_name>
-   cd nnfs-numpy
+   cd nnfs
    ```
 
 2. Install dependencies:
